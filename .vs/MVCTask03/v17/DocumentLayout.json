@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCTask03/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCTask03/True/SqlTable/dbo.AspNetUserClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\migrations\\20240909133236_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\migrations\\20240909133236_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc3\\mvctask03\\mvctask03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEA931-5042-49C3-93B4-E5F98C211FA1}|MVCTask03\\MVCTask03.csproj|solutionrelative:mvctask03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTask03\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:28:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCTask03\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "MVCTask03\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T15:13:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "MVCTask03\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:54:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVCTask03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:51:15.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240909133236_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Migrations\\20240909133236_initial.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Migrations\\20240909133236_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Migrations\\20240909133236_initial.cs",
+              "RelativeToolTip": "MVCTask03\\Migrations\\20240909133236_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:32:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "MVCTask03\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:46:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCTask03/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T14:55:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVCTask03\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:46:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Models\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "MVCTask03\\Models\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:07:13.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVCTask03\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "MVCTask03\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T15:08:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCTask03\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\appsettings.json",
+              "RelativeToolTip": "MVCTask03\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T13:16:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTask03\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC3\\MVCTask03\\MVCTask03\\Program.cs",
+              "RelativeToolTip": "MVCTask03\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:09.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.AspNetUserClaims [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCTask03/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "ToolTip": "dbo.AspNetUserClaims [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T14:55:17.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
